@@ -110,7 +110,7 @@ Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our i
 > The system returns detected emotion, confidence level, and a helpful AI-generated tip.
 
 
-![Response Output](./docs/response.png)
+![Response Output](./response.png)
 
 
 
