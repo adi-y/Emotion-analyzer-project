@@ -196,7 +196,7 @@ Spring Boot, FastAPI, React, Tailwind CSS
 MIT – Free to use and modify
 
 ## 👥 Contributors
-###This project was built by a team of passionate developers:
+This project was built by a team of passionate developers:
 | Name                 | Role                                  |
 | -------------------- | ------------------------------------- |
 | **Aditya Yadav**     | Spring Boot Backend Developer         |
