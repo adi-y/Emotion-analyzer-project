@@ -83,7 +83,7 @@ Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our i
 > Introducing MindMender with an elegant UI and clear call-to-action.
 
 
-![Home Page](docs/home.png)
+![Home Page](./home.png)
 
 
 
@@ -98,7 +98,7 @@ Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our i
 
 
 
-![Emotion Request](./docs/request.png)
+![Emotion Request](./request.png)
 
 
 
@@ -124,7 +124,7 @@ Get a quick look into how \*\*MindMender - Emotion Analyzer\*\* works with our i
 
 
 
-![Information Section](./docs/info.png)
+![Information Section](./info.png)
 
 ---
 
